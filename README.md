@@ -1,4 +1,4 @@
-#Coin-classification-with-CNN
+#Coin-classification-with-Convolution-Neural-Networks
 
 The goal of the project is to design a convolutional network that classify
 coin images into two classes:
